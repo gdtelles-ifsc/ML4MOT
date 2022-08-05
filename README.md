@@ -20,10 +20,10 @@ A pasta "archive" contém arquivos obsoletos para consulta.
 * [M-LOOP](https://m-loop.readthedocs.io/en/latest/)
 
 #### Livros
-* [Hands-On Machine Learning with Scikit-Learn & TensorFlow - Aurélien Géron](https://drive.google.com/open?id=130Yp2pWxVWOr7Y2VSxvhuJfx50KmEVHg)
+* [Hands-On Machine Learning with Scikit-Learn & TensorFlow - Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Gaussian Processes for Machine Learning - Carl Edward Rasmussen, Christopher K. I. Williams](http://www.gaussianprocess.org/gpml/chapters/)
-* [Laser Cooling and Trapping - Harold J. Metcalf, Peter van der Straten](https://drive.google.com/open?id=13_6TblpTbWlXYGTCL8_I03WixHL4QX1Y)
-* [Atomic Physics - Christopher J. Foot](https://drive.google.com/open?id=18QmC9dSgkgx3EOkSHDjA4_TSqo-THQgM)
+* [Laser Cooling and Trapping - Harold J. Metcalf, Peter van der Straten](https://books.google.com.br/books?id=i-40VaXqrj0C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
+* [Atomic Physics - Christopher J. Foot](https://www.google.com.br/books/edition/Atomic_Physics/_CoSDAAAQBAJ?hl=pt-BR&gbpv=1&dq=Atomic+Physics+-+Christopher+J.+Foot&printsec=frontcover)
 
 #### Artigos
 * [Artificial Intelligence Recreates Nobel Prize-Winning Physics Experiment - In One Hour - 
