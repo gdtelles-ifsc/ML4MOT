@@ -37,4 +37,4 @@ Brid-Aine Parnell](https://www.forbes.com/sites/bridaineparnell/2016/05/17/ai-re
 
 #### Novidades
 * [Machine-learning-accelerated Bose-Einstein condensation - Z. Vendeiro et al.](https://arxiv.org/abs/2205.08057)
-* [Combining machine learning with physics: A framework for tracking and sorting multiple dark solitons - S. Guo et al.](https://arxiv.org/abs/2111.04881)
+* [Combining machine learning with physics: A framework for tracking and sorting multiple dark solitons - S. Guo et al.](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023163)
