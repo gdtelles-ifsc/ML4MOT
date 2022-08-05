@@ -32,7 +32,9 @@ Brid-Aine Parnell](https://www.forbes.com/sites/bridaineparnell/2016/05/17/ai-re
 * [Applying machine learning optimization methods to the production of a quantum gas - P.B.Wigley et al.](https://www.nature.com/articles/srep25890)
 * [Optimization of Gaussian Process Models with Evolutionary Algorithms - Dejan Petelin et al.](https://drive.google.com/open?id=1bfGtHSIrEl6H9_RkM0JhqkreC8d4EUsM)
 * [Fast machine-learning online optimization of ultra-cold-atom experiments - A.J.Barker et al.](https://doi.org/10.1088/2632-2153/ab6432)
-
-#### Novidade
 * [Machine learning for achieving Bose-Einstein condensation of thulium atoms - E.T. Davletov et al.](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.011302)
 * [Active Learning Approach to Optimization of Experimental Control - Y. Wu et al.](https://doi.org/10.1088/0256-307X/37/10/103201)
+
+#### Novidades
+* [Machine-learning-accelerated Bose-Einstein condensation - Z. Vendeiro et al.](https://arxiv.org/abs/2205.08057)
+* [Combining machine learning with physics: A framework for tracking and sorting multiple dark solitons - S. Guo et al.](https://arxiv.org/abs/2111.04881)
